@@ -1,0 +1,3 @@
+django
+gunicorn
+whitenoise  # Para servir archivos estáticos en producción
